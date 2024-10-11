@@ -28,7 +28,7 @@ String sClient_id;
 DHT_Unified dht(DHTPIN, DHTTYPE);
 
 unsigned long lPmillis = 0;        // will store last time MQTT has published
-const long lInterval = 5000; // 5000 ms => 5 Seconds for demo. You can change it to 5 minutes
+const long lInterval = 60000; // 60000 ms => 60 Seconds for demo. You can change it to 5 minutes
 
 const char* ssid = YourSSID;
 const char* password = YourWiFiPassWord;
