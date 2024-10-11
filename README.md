@@ -3,6 +3,8 @@
 # DIY Temperature & Humidity Sensor with DHT22 and ESP8266 for HomeAssistant
 This project demonstrates how to build a temperature and humidity sensor using the DHT22 sensor and the ESP8266 (Wemos D1 Mini) board, perfect for integrating into your Home Assistant setup. The sensor communicates over WiFi using MQTT, and this repository contains both Arduino and ESPHome code to get you up and running.
 
+![Alt text](https://github.com/DIY-Sensors/How-to-Build-a-Temperature---Humidity-Sensor-with-DHT22-and-ESP8266/blob/main/Sensor.jpeg)
+
 ## Components Needed:
 - DHT22 Sensor
 - ESP8266 (Wemos D1 Mini or NodeMCU)
