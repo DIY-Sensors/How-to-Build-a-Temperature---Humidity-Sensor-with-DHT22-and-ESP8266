@@ -1,6 +1,6 @@
 /*
  *     Maker      : DIYSensors                
- *     Project    : WiFi - MQTT and OTA - Basic
+ *     Project    : Temp and Humidity WiFi - MQTT and OTA 
  *     Version    : 1.0
  *     Date       : 10-2024
  *     Programmer : Ap Matteman
