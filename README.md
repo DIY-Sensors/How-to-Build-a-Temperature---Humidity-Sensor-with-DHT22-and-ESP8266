@@ -36,7 +36,10 @@ This project demonstrates how to build a temperature and humidity sensor using t
 
 ## Video Tutorial:
 For a detailed guide on how to build and set up the sensor, check out the full YouTube video here:
-How to Build a Temperature & Humidity Sensor with DHT22 and ESP8266 | DIY Home Automation Project
+https://youtu.be/vbHhbarEAFA
+## 3D case
+https://www.thingiverse.com/thing:6797315
+https://www.tinkercad.com/things/fBgsPJ6BWyQ-themperature-and-humidity-sensor
 
 ## License:
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
